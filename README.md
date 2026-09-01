@@ -1,4 +1,7 @@
-# Ana Paula Cossich
+# Hi! 👋 I'm Ana Paula Cossich
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anapaulacossich/)
+[![GitHub followers](https://img.shields.io/github/followers/anapaulacossichofficial?style=social)](https://github.com/anapaulacossichofficial)
 
 <div align="left" style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
