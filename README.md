@@ -1,3 +1,4 @@
+
 # Hi! 👋 I'm Ana Paula Cossich
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anapaulacossich/)
@@ -7,9 +8,10 @@
 
 🌟 Welcome to my GitHub profile! 🚀
 
-- I'm a Solutions Engineer / Solution Architect, focused on generative AI, AI agents, Cybersecurity, and multicloud architecture.
-- I'm constantly learning and improving my skills.
-- I'm looking to collaborate on interesting open source projects.
+- I'm a Senior Technology Strategy & AI/ML Expert designing and delivering secure, scalable, and high-impact solutions.
+- My focus spans cloud-native architectures, Agentic AI, Zero Trust frameworks, and multicloud strategies.
+- I'm constantly learning and improving my skills. Currently enrolled in the AI Master Program at Stanford University.
+- I'm looking to collaborate on projects that bridge deep technical execution with transformative outcomes.
 
 </div>
 
@@ -19,11 +21,11 @@
 
 <div style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
-- 🤖 Prototyping AI agents 
-- 🛡️ Cybersecurity solution analysis (Zero Trust, SASE, SD-WAN)
-- ☁️ Hybrid and multicloud architecture design, including TCO, BOM, and HLD
-- 🧠 Applied research in **Deep Reinforcement Learning** (Stanford AI Professional Program)
-- 🐍 Python development for automation, RL experimentation, and agent prototyping
+- 🤖 **Generative AI & Agentic Workflows:** Prototyping AI agents, RAG-based assistants, and automated workflows, such as Amazon Bedrock and Azure OpenAI.
+- 🛡️ **Cybersecurity & Resilience:** Security-by-design framework analysis, Zero Trust, SIEM, SOAR, and SD-WAN architectures.
+- ☁️ **Cloud Architecture:** Hybrid and multicloud design, modernization journeys (Terraform, CI/CD), Architecture design.
+- 🧠 **Applied Research:** Focus on Deep Reinforcement Learning (Stanford AI Program) and LLM inference optimization.
+- 🐍 **Development & Automation:** Python development for DevOps automation, RL experimentation, and AI agent prototyping.
 
 </div>
 
@@ -33,13 +35,12 @@
 
 <div style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
-- 📍 Brazil
--  Linkedin - https:/www.linkedin.com/in/anapaulacossich/
+- 📍 Rio de Janeiro, Brazil
+- LinkedIn - https://www.linkedin.com/in/anapaulacossich/
 
 </div>
 
 ---
-
 
 <div align="left" style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
