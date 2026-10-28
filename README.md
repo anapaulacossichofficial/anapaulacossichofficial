@@ -10,7 +10,7 @@
 
 - I'm a Senior Technology Strategy & AI/ML Expert designing and delivering secure, scalable, and high-impact solutions.
 - My focus spans cloud-native architectures, Agentic AI, Zero Trust frameworks, and multicloud strategies.
-- I'm constantly learning and improving my skills. Currently enrolled in the AI Master Program at Stanford University.
+- I'm constantly learning and improving my skills. Currently enrolled in the AI Professional Program at Stanford University.
 - I'm looking to collaborate on projects that bridge deep technical execution with transformative outcomes.
 
 </div>
